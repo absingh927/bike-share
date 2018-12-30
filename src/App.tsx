@@ -48,7 +48,7 @@ class App extends React.PureComponent<AppComponent> {
     return (
       <Navbar color='success' expand='sm' className='text-light'>
         <NavbarBrand>
-          <FontAwesomeIcon icon={faBicycle}/> Toronto Bike Share
+          <FontAwesomeIcon icon={faBicycle}/> Boston Bike Share
         </NavbarBrand>
       </Navbar>
     );
