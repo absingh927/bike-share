@@ -3,7 +3,7 @@
 
 #### Background
 
-This was a side project I had intially started as a way to practice JS, React, and Redux to better understand and learn developing patterns. I unfortunately totally forgot to initiate a git repo till the very end while I was doing this project.
+This was a side project I had started as a way to practice my JS, React, and Redux to better understand and learn patterns. I unfortunately totally forgot to initiate a git repo till the very end while I was doing this project.
 
 #### Description
 
